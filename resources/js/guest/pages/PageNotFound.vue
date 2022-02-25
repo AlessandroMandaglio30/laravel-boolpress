@@ -1,10 +1,10 @@
 <template>
-  <footer></footer>
+  <h1>Page Error: Page ot Found</h1>
 </template>
 
 <script>
 export default {
-  name: "Footer",
+  name: "PageNotFound",
 };
 </script>
 
